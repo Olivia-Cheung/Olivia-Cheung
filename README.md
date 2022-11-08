@@ -3,7 +3,7 @@
 My name is Olivia Cheung, and I am a junior at Louisiana State University! I am majoring in Computer Science with a concentration in Software engineering and minoring in Robotics. 
 
 🔭 I’m currently working on PickLock: https://github.com/Olivia-Cheung/PickLock and FlutterPractice: https://github.com/Olivia-Cheung/FlutterPractice<br />
-🌱 I’m currently learning Arduino UNO and Figma  <br />
+🌱 I’m currently learning Arduino UNO, flutter, and dart   <br />
 📫 How to reach me: ocheun2@lsu.edu  <br />
 😄 Pronouns: she/her <br />
 <!--
