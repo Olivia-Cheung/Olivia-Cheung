@@ -4,7 +4,7 @@ My name is Olivia Cheung, and I am a junior at Louisiana State University! I am 
 
 🔭 I’m currently working on PickLock: https://github.com/Olivia-Cheung/PickLock <br />
 🌱 I’m currently learning Arduino UNO   <br />
-📫 How to reach me: ocheun2@lsu.edu  <br />
+📫 How to reach me: ocheun2@lsu.edu or oliviamaic2020@gmail.com <br />
 😄 Pronouns: she/her <br />
 <!--
 **Olivia-Cheung/Olivia-Cheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
