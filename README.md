@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my little corner of github! I'm a recent LSU Computer Science graduate and currently intern at DXC Technology as a Technical Intern focused on Frontend development. I have experience designing and implementing software and collaborating with diverse teams.</p>
+<p align="left">Welcome to my little corner of github! I'm a recent LSU Computer Science graduate and currently a software developer at DXC Technology, focused on Frontend development. I have experience designing and implementing software and collaborating with diverse teams.</p>
 
 ###
 
